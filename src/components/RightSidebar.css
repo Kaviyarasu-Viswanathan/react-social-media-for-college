@@ -1,0 +1,23 @@
+.rightsidebar {
+  margin-right: 10px;
+  margin-top: 60px;
+  height: 40rem;
+  width: 19rem;
+  background-color: white;
+  border-radius: 20px;
+}
+.rightsidebar > h3 {
+  color: #64c789;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+.right-content {
+  height: 37rem;
+  display: flex;
+  justify-content: center;
+  margin-left: 10px;
+}
+.dots {
+  color: #ff7b77;
+}

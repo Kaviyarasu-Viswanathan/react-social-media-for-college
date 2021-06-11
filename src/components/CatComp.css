@@ -1,0 +1,25 @@
+.catcomp {
+  padding-top: 15px;
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+}
+
+.cat__contents > img {
+  height: 60px;
+  border-radius: 20px;
+}
+.cat__contents {
+  display: flex;
+  align-items: center;
+}
+.sub-cat__contents > .cat1 {
+  padding: 10px;
+  font-weight: 700;
+  font-size: 16px;
+}
+.sub-cat__contents > .cat2 {
+  color: gray;
+  font-size: 12px;
+  margin-left: 10px;
+}

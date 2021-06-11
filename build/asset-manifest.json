@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05e1043d.chunk.css",
+    "main.js": "/static/js/main.b9b5d3b8.chunk.js",
+    "main.js.map": "/static/js/main.b9b5d3b8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ed43b059.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ed43b059.js.map",
+    "static/js/2.296f6ae3.chunk.js": "/static/js/2.296f6ae3.chunk.js",
+    "static/js/2.296f6ae3.chunk.js.map": "/static/js/2.296f6ae3.chunk.js.map",
+    "static/js/3.3e843e50.chunk.js": "/static/js/3.3e843e50.chunk.js",
+    "static/js/3.3e843e50.chunk.js.map": "/static/js/3.3e843e50.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.05e1043d.chunk.css.map": "/static/css/main.05e1043d.chunk.css.map",
+    "static/js/2.296f6ae3.chunk.js.LICENSE.txt": "/static/js/2.296f6ae3.chunk.js.LICENSE.txt",
+    "static/media/googlesignIn.fe45496e.png": "/static/media/googlesignIn.fe45496e.png",
+    "static/media/students.736c7797.png": "/static/media/students.736c7797.png",
+    "static/media/vcetImage.483c2173.png": "/static/media/vcetImage.483c2173.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed43b059.js",
+    "static/js/2.296f6ae3.chunk.js",
+    "static/css/main.05e1043d.chunk.css",
+    "static/js/main.b9b5d3b8.chunk.js"
+  ]
+}

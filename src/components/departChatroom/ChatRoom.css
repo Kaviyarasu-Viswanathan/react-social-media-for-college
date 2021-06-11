@@ -1,0 +1,50 @@
+.chatroom {
+  text-align: center;
+  background-color: rgba(253, 203, 189, 1);
+}
+
+.app-image {
+  height: 100px;
+  margin: 50px;
+}
+
+.app-title {
+  margin-top: -50px;
+  color: white;
+}
+
+.app-title strong.user {
+  color: #0078ff;
+}
+
+.app-title strong.emoji {
+  color: #fb8c00;
+}
+
+.app-form {
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  background-color: #e9e9eb;
+  width: 90%;
+  margin: 20px;
+}
+
+.app-formControl {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.app-input {
+  flex: 1;
+}
+
+.app-iconButton {
+  flex: 0;
+}
+.App > img {
+  margin-top: 100px;
+  height: 100px;
+  object-fit: contain;
+}

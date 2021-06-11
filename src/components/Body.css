@@ -1,0 +1,17 @@
+.body__contents {
+  height: 1000vh;
+  display: flex;
+  align-items: flex-start;
+}
+.msgComp {
+  margin: 30px;
+  position: absolute;
+}
+.feed__content {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20rem;
+  align-items: flex-start;
+  position: absolute;
+  margin-left: 29rem;
+}

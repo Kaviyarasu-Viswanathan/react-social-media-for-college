@@ -1,0 +1,47 @@
+.profilepage {
+  background-color: rgba(253, 203, 189, 1);
+  height: 200vh;
+  width: 100vw;
+  overflow-x: none;
+}
+
+.profile__content {
+  margin: 60px;
+  height: 100vh;
+  overflow-x: none;
+}
+.profile__cover > .profile__cover-img {
+  height: 200px;
+  width: 100%;
+  margin-left: -16px;
+  border-bottom-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+.profile__info > .MuiAvatar-root {
+  margin-top: -30px;
+  margin-left: 40px;
+  height: 70px;
+  width: 70px;
+}
+.user__posts {
+  display: flex;
+  flex-wrap: inherit;
+  max-width: 100px;
+  overflow-x: none;
+}
+.user__posts > img {
+  margin-top: 80px;
+  width: 300px;
+  object-fit: contain;
+  padding: 20px;
+  margin-right: 100px;
+  background-color: #ff7b77;
+  border-radius: 50px;
+}
+.profile__userdata > .username-p {
+  font-weight: 700;
+}
+.profile__userdata {
+}
+.profile__userdata > .email_address-p {
+}
